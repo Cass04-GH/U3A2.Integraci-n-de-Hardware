@@ -44,7 +44,7 @@ El proyecto detecta caídas mediante aceleración y envía alertas automáticas 
 
 ---
 
-## 🚀 Compilación
+##  Compilación
 
 Proyecto desarrollado con PlatformIO.
 
